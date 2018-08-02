@@ -1,0 +1,11 @@
+When became a friend:
+	https://user.qzone.qq.com/{your_qq_number}/friendship?fuin={friend_qq_number}
+friend info
+	http://ti.qq.com/qcard/index.html?qq={friend_qq_number}
+	
+++++++++++
+request：
+	selenium
+		http://chromedriver.storage.googleapis.com/index.html 【using chrome】
+	requests
+	re
